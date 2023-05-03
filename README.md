@@ -30,5 +30,12 @@ Starts a ping DoS attack from the host system
 ## Requirement Notes
 python -m pip install requests
 [API Key](https://www.virustotal.com/gui/join-us)
+then create text file [apikey.txt]((https://github.com/tgangshar/Penn-Testing-Tools/tree/main/Python%20Scripts/) and store it there in 
 ## Utitity Note
 Scan a desired file for viruses and then output the results
+
+# Web Application Exploit
+[python wireshark](https://github.com/tgangshar/Penn-Testing-Tools/tree/main/Python%20Scripts/sniff.py), [Bash sqlmap](https://github.com/tgangshar/Penn-Testing-Tools/blob/main/Bash%20Scripts/myMap.sh)
+## Requirement Note
+Pyshark
+sqlmap
