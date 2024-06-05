@@ -6,7 +6,7 @@ All these tools are tested on UNIX (Kali Linux)
 # OSINT (**Will be updated**)
 ## Requirement Notes
 ## Utility Notes
-
+View https://github.com/aboul3la/Sublist3r
 # Active Information Gathering
 
 [ping.sh](https://github.com/tgangshar/Penn-Testing-Tools/blob/main/Bash%20Scripts/ping.sh), [nmap-basic.sh](https://github.com/tgangshar/Penn-Testing-Tools/blob/main/Bash%20Scripts/nmap-basic.sh)
